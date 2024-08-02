@@ -1,458 +1,458 @@
 Date,Expense Type,Amount,Description
-2023-04-01,Entertainment,317.56,Concert
-2023-04-02,Entertainment,366.03,Concert
-2023-04-03,Rent,277.37,Monthly rent
-2023-04-04,Miscellaneous,206.97,Donation
-2023-04-05,Entertainment,286.6,Movies
-2023-04-06,Utilities,114.44,Internet bill
-2023-04-07,Utilities,263.37,Water bill
-2023-04-08,Utilities,255.34,Water bill
-2023-04-09,Utilities,110.88,Water bill
-2023-04-10,Utilities,390.88,Phone bill
-2023-04-11,Food,397.16,Café
-2023-04-12,Entertainment,81.2,Movies
-2023-04-13,Miscellaneous,62.67,Shopping
-2023-04-14,Utilities,486.06,Phone bill
-2023-04-15,Food,51.67,Restaurant
-2023-04-16,Rent,307.35,Monthly rent
-2023-04-17,Miscellaneous,433.1,Gift
-2023-04-18,Miscellaneous,27.67,Shopping
-2023-04-19,Transportation,5.14,Bus fare
-2023-04-20,Entertainment,345.07,Movies
-2023-04-21,Transportation,62.97,Train ticket
-2023-04-22,Utilities,287.02,Internet bill
-2023-04-23,Utilities,69.2,Phone bill
-2023-04-24,Utilities,243.23,Water bill
-2023-04-25,Rent,285.12,Monthly rent
-2023-04-26,Food,149.14,Fast food
-2023-04-27,Rent,380.1,Monthly rent
-2023-04-28,Miscellaneous,458.88,Gift
-2023-04-29,Rent,170.75,Monthly rent
-2023-04-30,Food,433.7,Groceries
-2023-05-01,Food,134.93,Fast food
-2023-05-02,Miscellaneous,283.52,Donation
-2023-05-03,Entertainment,220.95,Subscription
-2023-05-04,Utilities,81.63,Phone bill
-2023-05-05,Utilities,135.17,Phone bill
-2023-05-06,Entertainment,95.62,Concert
-2023-05-07,Transportation,125.08,Bus fare
-2023-05-08,Rent,327.72,Monthly rent
-2023-05-09,Miscellaneous,493.42,Gift
-2023-05-10,Food,131.88,Groceries
-2023-05-11,Utilities,228.0,Internet bill
-2023-05-12,Transportation,136.53,Taxi
-2023-05-13,Rent,238.66,Monthly rent
-2023-05-14,Entertainment,94.52,Movies
-2023-05-15,Food,155.0,Restaurant
-2023-05-16,Entertainment,287.16,Concert
-2023-05-17,Rent,139.28,Monthly rent
-2023-05-18,Transportation,52.81,Taxi
-2023-05-19,Entertainment,254.8,Movies
-2023-05-20,Miscellaneous,315.61,Other
-2023-05-21,Entertainment,251.77,Concert
-2023-05-22,Rent,460.32,Monthly rent
-2023-05-23,Utilities,152.12,Electricity bill
-2023-05-24,Entertainment,388.97,Concert
-2023-05-25,Miscellaneous,354.1,Other
-2023-05-26,Entertainment,154.44,Sports event
-2023-05-27,Rent,71.56,Monthly rent
-2023-05-28,Rent,389.62,Monthly rent
-2023-05-29,Utilities,337.55,Phone bill
-2023-05-30,Entertainment,426.53,Concert
-2023-05-31,Utilities,389.49,Phone bill
-2023-06-01,Miscellaneous,316.66,Shopping
-2023-06-02,Miscellaneous,368.83,Donation
-2023-06-03,Entertainment,316.42,Concert
-2023-06-04,Miscellaneous,380.58,Other
-2023-06-05,Entertainment,307.04,Concert
-2023-06-06,Transportation,349.08,Bus fare
-2023-06-07,Transportation,297.65,Taxi
-2023-06-08,Rent,292.04,Monthly rent
-2023-06-09,Rent,7.03,Monthly rent
-2023-06-10,Utilities,334.45,Internet bill
-2023-06-11,Transportation,187.61,Bus fare
-2023-06-12,Transportation,381.89,Bus fare
-2023-06-13,Rent,416.1,Monthly rent
-2023-06-14,Miscellaneous,365.75,Shopping
-2023-06-15,Utilities,140.28,Electricity bill
-2023-06-16,Rent,427.27,Monthly rent
-2023-06-17,Transportation,463.26,Bus fare
-2023-06-18,Rent,458.15,Monthly rent
-2023-06-19,Transportation,89.34,Train ticket
-2023-06-20,Entertainment,119.84,Concert
-2023-06-21,Miscellaneous,217.52,Shopping
-2023-06-22,Miscellaneous,225.02,Other
-2023-06-23,Utilities,227.15,Water bill
-2023-06-24,Miscellaneous,309.33,Other
-2023-06-25,Miscellaneous,98.43,Other
-2023-06-26,Miscellaneous,11.0,Gift
-2023-06-27,Entertainment,44.65,Subscription
-2023-06-28,Utilities,210.17,Internet bill
-2023-06-29,Utilities,393.29,Water bill
-2023-06-30,Utilities,170.1,Internet bill
-2023-07-01,Miscellaneous,484.64,Other
-2023-07-02,Miscellaneous,183.64,Donation
-2023-07-03,Entertainment,97.08,Subscription
-2023-07-04,Transportation,394.13,Gas
-2023-07-05,Rent,230.75,Monthly rent
-2023-07-06,Utilities,216.35,Phone bill
-2023-07-07,Rent,444.31,Monthly rent
-2023-07-08,Entertainment,160.55,Movies
-2023-07-09,Miscellaneous,338.47,Shopping
-2023-07-10,Rent,348.67,Monthly rent
-2023-07-11,Miscellaneous,35.19,Donation
-2023-07-12,Entertainment,52.39,Subscription
-2023-07-13,Entertainment,153.18,Movies
-2023-07-14,Rent,140.75,Monthly rent
-2023-07-15,Rent,406.72,Monthly rent
-2023-07-16,Miscellaneous,443.52,Gift
-2023-07-17,Food,188.13,Restaurant
-2023-07-18,Entertainment,132.55,Subscription
-2023-07-19,Entertainment,478.9,Movies
-2023-07-20,Miscellaneous,315.99,Donation
-2023-07-21,Rent,488.11,Monthly rent
-2023-07-22,Transportation,398.92,Taxi
-2023-07-23,Entertainment,246.88,Sports event
-2023-07-24,Miscellaneous,146.81,Gift
-2023-07-25,Food,6.01,Café
-2023-07-26,Transportation,400.92,Gas
-2023-07-27,Utilities,276.93,Electricity bill
-2023-07-28,Miscellaneous,401.49,Gift
-2023-07-29,Transportation,439.25,Train ticket
-2023-07-30,Miscellaneous,50.1,Other
-2023-07-31,Transportation,34.17,Taxi
-2023-08-01,Utilities,159.1,Electricity bill
-2023-08-02,Entertainment,75.11,Movies
-2023-08-03,Miscellaneous,41.69,Donation
-2023-08-04,Rent,294.77,Monthly rent
-2023-08-05,Entertainment,214.13,Movies
-2023-08-06,Entertainment,205.09,Sports event
-2023-08-07,Rent,114.68,Monthly rent
-2023-08-08,Transportation,485.97,Bus fare
-2023-08-09,Rent,117.44,Monthly rent
-2023-08-10,Rent,182.51,Monthly rent
-2023-08-11,Miscellaneous,16.85,Shopping
-2023-08-12,Transportation,74.51,Train ticket
-2023-08-13,Entertainment,85.66,Sports event
-2023-08-14,Entertainment,196.23,Subscription
-2023-08-15,Food,281.12,Restaurant
-2023-08-16,Rent,195.94,Monthly rent
-2023-08-17,Miscellaneous,477.02,Donation
-2023-08-18,Transportation,23.98,Bus fare
-2023-08-19,Transportation,86.21,Train ticket
-2023-08-20,Utilities,245.1,Electricity bill
-2023-08-21,Utilities,134.18,Electricity bill
-2023-08-22,Entertainment,287.72,Subscription
-2023-08-23,Miscellaneous,456.38,Other
-2023-08-24,Entertainment,233.67,Movies
-2023-08-25,Utilities,69.69,Internet bill
-2023-08-26,Food,105.68,Groceries
-2023-08-27,Food,443.69,Fast food
-2023-08-28,Entertainment,443.97,Concert
-2023-08-29,Entertainment,68.32,Movies
-2023-08-30,Utilities,369.34,Internet bill
-2023-08-31,Entertainment,176.3,Movies
-2023-09-01,Miscellaneous,366.15,Gift
-2023-09-02,Utilities,126.7,Phone bill
-2023-09-03,Miscellaneous,35.79,Gift
-2023-09-04,Entertainment,85.15,Concert
-2023-09-05,Food,461.44,Fast food
-2023-09-06,Rent,220.63,Monthly rent
-2023-09-07,Miscellaneous,479.02,Gift
-2023-09-08,Rent,266.35,Monthly rent
-2023-09-09,Rent,45.77,Monthly rent
-2023-09-10,Utilities,249.26,Electricity bill
-2023-09-11,Utilities,353.42,Water bill
-2023-09-12,Miscellaneous,73.79,Gift
-2023-09-13,Food,408.32,Groceries
-2023-09-14,Rent,20.21,Monthly rent
-2023-09-15,Entertainment,377.0,Movies
-2023-09-16,Miscellaneous,145.85,Other
-2023-09-17,Food,269.75,Groceries
-2023-09-18,Transportation,30.46,Train ticket
-2023-09-19,Rent,438.92,Monthly rent
-2023-09-20,Rent,101.9,Monthly rent
-2023-09-21,Food,49.34,Café
-2023-09-22,Entertainment,499.71,Subscription
-2023-09-23,Food,299.61,Restaurant
-2023-09-24,Food,170.17,Fast food
-2023-09-25,Transportation,251.07,Train ticket
-2023-09-26,Utilities,375.48,Phone bill
-2023-09-27,Rent,224.7,Monthly rent
-2023-09-28,Rent,287.86,Monthly rent
-2023-09-29,Transportation,188.08,Gas
-2023-09-30,Transportation,407.06,Train ticket
-2023-10-01,Utilities,130.19,Internet bill
-2023-10-02,Entertainment,372.91,Movies
-2023-10-03,Rent,389.33,Monthly rent
-2023-10-04,Food,323.91,Café
-2023-10-05,Miscellaneous,88.15,Gift
-2023-10-06,Utilities,453.19,Water bill
-2023-10-07,Utilities,246.97,Electricity bill
-2023-10-08,Miscellaneous,230.65,Donation
-2023-10-09,Food,260.54,Café
-2023-10-10,Utilities,326.5,Phone bill
-2023-10-11,Miscellaneous,237.2,Shopping
-2023-10-12,Transportation,285.87,Train ticket
-2023-10-13,Food,222.73,Fast food
-2023-10-14,Rent,397.85,Monthly rent
-2023-10-15,Food,469.1,Café
-2023-10-16,Entertainment,117.9,Subscription
-2023-10-17,Transportation,51.05,Train ticket
-2023-10-18,Transportation,375.66,Taxi
-2023-10-19,Utilities,360.85,Water bill
-2023-10-20,Transportation,51.43,Gas
-2023-10-21,Utilities,492.46,Water bill
-2023-10-22,Rent,208.76,Monthly rent
-2023-10-23,Food,29.47,Groceries
-2023-10-24,Utilities,272.27,Water bill
-2023-10-25,Entertainment,291.32,Subscription
-2023-10-26,Entertainment,329.64,Movies
-2023-10-27,Utilities,192.64,Internet bill
-2023-10-28,Miscellaneous,279.39,Shopping
-2023-10-29,Rent,449.98,Monthly rent
-2023-10-30,Entertainment,305.71,Sports event
-2023-10-31,Miscellaneous,82.45,Donation
-2023-11-01,Entertainment,41.34,Sports event
-2023-11-02,Miscellaneous,53.07,Other
-2023-11-03,Transportation,151.71,Taxi
-2023-11-04,Miscellaneous,194.08,Gift
-2023-11-05,Transportation,449.26,Gas
-2023-11-06,Rent,56.42,Monthly rent
-2023-11-07,Utilities,316.94,Water bill
-2023-11-08,Transportation,94.98,Train ticket
-2023-11-09,Entertainment,156.75,Concert
-2023-11-10,Transportation,474.24,Bus fare
-2023-11-11,Utilities,93.13,Electricity bill
-2023-11-12,Entertainment,287.31,Movies
-2023-11-13,Entertainment,443.92,Concert
-2023-11-14,Miscellaneous,381.09,Other
-2023-11-15,Miscellaneous,6.34,Donation
-2023-11-16,Entertainment,19.03,Sports event
-2023-11-17,Entertainment,459.11,Concert
-2023-11-18,Miscellaneous,131.74,Gift
-2023-11-19,Rent,153.87,Monthly rent
-2023-11-20,Transportation,159.07,Train ticket
-2023-11-21,Entertainment,325.41,Movies
-2023-11-22,Entertainment,320.9,Concert
-2023-11-23,Entertainment,31.76,Movies
-2023-11-24,Transportation,211.17,Train ticket
-2023-11-25,Rent,208.9,Monthly rent
-2023-11-26,Entertainment,185.25,Subscription
-2023-11-27,Rent,158.55,Monthly rent
-2023-11-28,Entertainment,33.07,Sports event
-2023-11-29,Utilities,394.56,Internet bill
-2023-11-30,Transportation,15.55,Gas
-2023-12-01,Entertainment,289.54,Subscription
-2023-12-02,Utilities,67.59,Electricity bill
-2023-12-03,Miscellaneous,380.08,Other
-2023-12-04,Transportation,71.75,Train ticket
-2023-12-05,Utilities,105.21,Electricity bill
-2023-12-06,Entertainment,22.4,Concert
-2023-12-07,Entertainment,390.96,Sports event
-2023-12-08,Entertainment,498.27,Concert
-2023-12-09,Transportation,80.15,Train ticket
-2023-12-10,Rent,141.75,Monthly rent
-2023-12-11,Food,404.93,Restaurant
-2023-12-12,Food,444.41,Fast food
-2023-12-13,Entertainment,338.24,Sports event
-2023-12-14,Transportation,267.95,Train ticket
-2023-12-15,Miscellaneous,208.94,Shopping
-2023-12-16,Rent,480.57,Monthly rent
-2023-12-17,Entertainment,300.34,Movies
-2023-12-18,Rent,294.44,Monthly rent
-2023-12-19,Food,401.23,Fast food
-2023-12-20,Entertainment,386.68,Concert
-2023-12-21,Transportation,31.21,Bus fare
-2023-12-22,Transportation,110.25,Bus fare
-2023-12-23,Entertainment,12.8,Sports event
-2023-12-24,Transportation,164.65,Taxi
-2023-12-25,Entertainment,384.55,Sports event
-2023-12-26,Food,385.45,Groceries
-2023-12-27,Rent,383.03,Monthly rent
-2023-12-28,Transportation,142.35,Train ticket
-2023-12-29,Utilities,168.5,Phone bill
-2023-12-30,Food,259.39,Restaurant
-2023-12-31,Transportation,481.24,Train ticket
-2024-01-01,Miscellaneous,224.89,Donation
-2024-01-02,Food,461.36,Café
-2024-01-03,Miscellaneous,52.79,Donation
-2024-01-04,Food,122.3,Fast food
-2024-01-05,Food,258.25,Restaurant
-2024-01-06,Entertainment,463.29,Subscription
-2024-01-07,Transportation,281.99,Train ticket
-2024-01-08,Rent,88.54,Monthly rent
-2024-01-09,Rent,480.92,Monthly rent
-2024-01-10,Rent,163.86,Monthly rent
-2024-01-11,Food,163.05,Café
-2024-01-12,Entertainment,108.12,Sports event
-2024-01-13,Transportation,263.2,Gas
-2024-01-14,Miscellaneous,116.55,Gift
-2024-01-15,Food,452.18,Restaurant
-2024-01-16,Utilities,328.02,Water bill
-2024-01-17,Entertainment,414.01,Concert
-2024-01-18,Rent,498.29,Monthly rent
-2024-01-19,Transportation,198.39,Taxi
-2024-01-20,Rent,231.31,Monthly rent
-2024-01-21,Utilities,89.0,Water bill
-2024-01-22,Transportation,380.02,Gas
-2024-01-23,Miscellaneous,188.7,Other
-2024-01-24,Rent,134.71,Monthly rent
-2024-01-25,Rent,149.05,Monthly rent
-2024-01-26,Food,178.75,Café
-2024-01-27,Utilities,341.06,Internet bill
-2024-01-28,Miscellaneous,234.58,Shopping
-2024-01-29,Food,297.61,Groceries
-2024-01-30,Transportation,188.74,Train ticket
-2024-01-31,Rent,314.74,Monthly rent
-2024-02-01,Rent,436.46,Monthly rent
-2024-02-02,Utilities,274.61,Electricity bill
-2024-02-03,Utilities,91.67,Phone bill
-2024-02-04,Miscellaneous,392.75,Donation
-2024-02-05,Rent,93.86,Monthly rent
-2024-02-06,Transportation,243.33,Gas
-2024-02-07,Entertainment,97.59,Sports event
-2024-02-08,Food,404.33,Restaurant
-2024-02-09,Food,13.61,Café
-2024-02-10,Food,173.32,Groceries
-2024-02-11,Food,255.17,Café
-2024-02-12,Food,408.7,Groceries
-2024-02-13,Utilities,491.87,Water bill
-2024-02-14,Transportation,495.63,Bus fare
-2024-02-15,Food,486.34,Fast food
-2024-02-16,Rent,431.57,Monthly rent
-2024-02-17,Transportation,487.81,Train ticket
-2024-02-18,Entertainment,278.35,Sports event
-2024-02-19,Entertainment,142.97,Sports event
-2024-02-20,Utilities,469.21,Water bill
-2024-02-21,Entertainment,332.88,Movies
-2024-02-22,Miscellaneous,245.42,Other
-2024-02-23,Food,404.09,Groceries
-2024-02-24,Rent,299.81,Monthly rent
-2024-02-25,Entertainment,126.26,Movies
-2024-02-26,Miscellaneous,421.94,Other
-2024-02-27,Food,195.67,Fast food
-2024-02-28,Food,415.85,Fast food
-2024-02-29,Food,8.69,Groceries
-2024-03-01,Food,308.52,Groceries
-2024-03-02,Food,330.79,Groceries
-2024-03-03,Transportation,232.26,Bus fare
-2024-03-04,Transportation,244.04,Bus fare
-2024-03-05,Entertainment,92.25,Subscription
-2024-03-06,Rent,299.15,Monthly rent
-2024-03-07,Rent,455.56,Monthly rent
-2024-03-08,Miscellaneous,66.76,Shopping
-2024-03-09,Rent,321.9,Monthly rent
-2024-03-10,Transportation,485.51,Gas
-2024-03-11,Miscellaneous,416.9,Other
-2024-03-12,Food,250.93,Groceries
-2024-03-13,Transportation,331.92,Taxi
-2024-03-14,Miscellaneous,220.88,Other
-2024-03-15,Miscellaneous,317.6,Other
-2024-03-16,Miscellaneous,223.17,Shopping
-2024-03-17,Transportation,479.68,Gas
-2024-03-18,Transportation,163.42,Taxi
-2024-03-19,Utilities,107.56,Internet bill
-2024-03-20,Food,71.47,Fast food
-2024-03-21,Miscellaneous,238.85,Donation
-2024-03-22,Entertainment,483.87,Subscription
-2024-03-23,Food,378.76,Café
-2024-03-24,Rent,261.34,Monthly rent
-2024-03-25,Utilities,173.97,Internet bill
-2024-03-26,Entertainment,403.11,Sports event
-2024-03-27,Rent,496.43,Monthly rent
-2024-03-28,Transportation,396.9,Gas
-2024-03-29,Entertainment,375.13,Subscription
-2024-03-30,Food,134.28,Café
-2024-03-31,Transportation,84.26,Bus fare
-2024-04-01,Utilities,308.23,Water bill
-2024-04-02,Entertainment,374.61,Sports event
-2024-04-03,Utilities,144.47,Electricity bill
-2024-04-04,Entertainment,257.46,Concert
-2024-04-05,Miscellaneous,96.08,Shopping
-2024-04-06,Food,376.98,Café
-2024-04-07,Utilities,359.05,Electricity bill
-2024-04-08,Transportation,91.52,Bus fare
-2024-04-09,Entertainment,56.02,Subscription
-2024-04-10,Rent,450.91,Monthly rent
-2024-04-11,Food,353.71,Restaurant
-2024-04-12,Miscellaneous,245.28,Donation
-2024-04-13,Miscellaneous,188.51,Donation
-2024-04-14,Rent,447.94,Monthly rent
-2024-04-15,Rent,24.36,Monthly rent
-2024-04-16,Food,225.33,Groceries
-2024-04-17,Food,172.95,Groceries
-2024-04-18,Miscellaneous,432.65,Donation
-2024-04-19,Utilities,71.27,Phone bill
-2024-04-20,Food,479.07,Café
-2024-04-21,Miscellaneous,422.88,Donation
-2024-04-22,Rent,223.59,Monthly rent
-2024-04-23,Utilities,366.54,Phone bill
-2024-04-24,Food,325.9,Restaurant
-2024-04-25,Transportation,493.88,Taxi
-2024-04-26,Transportation,47.25,Gas
-2024-04-27,Transportation,254.39,Train ticket
-2024-04-28,Utilities,408.77,Electricity bill
-2024-04-29,Transportation,351.94,Bus fare
-2024-04-30,Rent,271.13,Monthly rent
-2024-05-01,Food,276.26,Restaurant
-2024-05-02,Entertainment,75.71,Concert
-2024-05-03,Utilities,425.1,Internet bill
-2024-05-04,Transportation,426.06,Gas
-2024-05-05,Transportation,440.56,Gas
-2024-05-06,Transportation,197.63,Bus fare
-2024-05-07,Rent,291.1,Monthly rent
-2024-05-08,Utilities,215.49,Electricity bill
-2024-05-09,Entertainment,340.65,Concert
-2024-05-10,Miscellaneous,236.78,Donation
-2024-05-11,Miscellaneous,290.56,Gift
-2024-05-12,Food,265.35,Café
-2024-05-13,Food,387.04,Café
-2024-05-14,Entertainment,6.45,Sports event
-2024-05-15,Rent,218.63,Monthly rent
-2024-05-16,Rent,6.29,Monthly rent
-2024-05-17,Rent,33.46,Monthly rent
-2024-05-18,Rent,477.24,Monthly rent
-2024-05-19,Food,407.35,Fast food
-2024-05-20,Utilities,6.66,Water bill
-2024-05-21,Miscellaneous,479.59,Shopping
-2024-05-22,Miscellaneous,73.29,Gift
-2024-05-23,Entertainment,177.01,Subscription
-2024-05-24,Entertainment,332.62,Subscription
-2024-05-25,Food,94.16,Fast food
-2024-05-26,Rent,473.37,Monthly rent
-2024-05-27,Rent,491.24,Monthly rent
-2024-05-28,Entertainment,164.9,Movies
-2024-05-29,Utilities,467.21,Internet bill
-2024-05-30,Rent,236.43,Monthly rent
-2024-05-31,Food,485.35,Fast food
-2024-06-01,Utilities,55.04,Internet bill
-2024-06-02,Utilities,50.48,Electricity bill
-2024-06-03,Entertainment,233.92,Concert
-2024-06-04,Miscellaneous,355.29,Shopping
-2024-06-05,Food,181.77,Restaurant
-2024-06-06,Miscellaneous,47.07,Other
-2024-06-07,Rent,73.43,Monthly rent
-2024-06-08,Food,459.79,Café
-2024-06-09,Transportation,176.34,Taxi
-2024-06-10,Transportation,297.69,Gas
-2024-06-11,Entertainment,375.76,Concert
-2024-06-12,Rent,367.97,Monthly rent
-2024-06-13,Entertainment,15.1,Subscription
-2024-06-14,Utilities,319.74,Internet bill
-2024-06-15,Utilities,105.79,Electricity bill
-2024-06-16,Transportation,407.71,Train ticket
-2024-06-17,Transportation,96.65,Taxi
-2024-06-18,Utilities,257.81,Internet bill
-2024-06-19,Miscellaneous,100.62,Other
-2024-06-20,Entertainment,319.1,Movies
-2024-06-21,Rent,376.36,Monthly rent
-2024-06-22,Utilities,214.39,Phone bill
-2024-06-23,Transportation,227.57,Taxi
-2024-06-24,Miscellaneous,438.51,Gift
-2024-06-25,Utilities,137.28,Electricity bill
-2024-06-26,Food,202.95,Fast food
-2024-06-27,Food,140.55,Groceries
-2024-06-28,Transportation,354.92,Bus fare
-2024-06-29,Utilities,441.63,Phone bill
-2024-06-30,Transportation,310.2,Taxi
+01-04-2023,Entertainment,317.56,Concert
+02-04-2023,Entertainment,366.03,Concert
+03-04-2023,Rent,277.37,Monthly rent
+04-04-2023,Miscellaneous,206.97,Donation
+05-04-2023,Entertainment,286.6,Movies
+06-04-2023,Utilities,114.44,Internet bill
+07-04-2023,Utilities,263.37,Water bill
+08-04-2023,Utilities,255.34,Water bill
+09-04-2023,Utilities,110.88,Water bill
+10-04-2023,Utilities,390.88,Phone bill
+11-04-2023,Food,397.16,Café
+12-04-2023,Entertainment,81.2,Movies
+13-04-2023,Miscellaneous,62.67,Shopping
+14-04-2023,Utilities,486.06,Phone bill
+15-04-2023,Food,51.67,Restaurant
+16-04-2023,Rent,307.35,Monthly rent
+17-04-2023,Miscellaneous,433.1,Gift
+18-04-2023,Miscellaneous,27.67,Shopping
+19-04-2023,Transportation,5.14,Bus fare
+20-04-2023,Entertainment,345.07,Movies
+21-04-2023,Transportation,62.97,Train ticket
+22-04-2023,Utilities,287.02,Internet bill
+23-04-2023,Utilities,69.2,Phone bill
+24-04-2023,Utilities,243.23,Water bill
+25-04-2023,Rent,285.12,Monthly rent
+26-04-2023,Food,149.14,Fast food
+27-04-2023,Rent,380.1,Monthly rent
+28-04-2023,Miscellaneous,458.88,Gift
+29-04-2023,Rent,170.75,Monthly rent
+30-04-2023,Food,433.7,Groceries
+01-05-2023,Food,134.93,Fast food
+02-05-2023,Miscellaneous,283.52,Donation
+03-05-2023,Entertainment,220.95,Subscription
+04-05-2023,Utilities,81.63,Phone bill
+05-05-2023,Utilities,135.17,Phone bill
+06-05-2023,Entertainment,95.62,Concert
+07-05-2023,Transportation,125.08,Bus fare
+08-05-2023,Rent,327.72,Monthly rent
+09-05-2023,Miscellaneous,493.42,Gift
+10-05-2023,Food,131.88,Groceries
+11-05-2023,Utilities,228,Internet bill
+12-05-2023,Transportation,136.53,Taxi
+13-05-2023,Rent,238.66,Monthly rent
+14-05-2023,Entertainment,94.52,Movies
+15-05-2023,Food,155,Restaurant
+16-05-2023,Entertainment,287.16,Concert
+17-05-2023,Rent,139.28,Monthly rent
+18-05-2023,Transportation,52.81,Taxi
+19-05-2023,Entertainment,254.8,Movies
+20-05-2023,Miscellaneous,315.61,Other
+21-05-2023,Entertainment,251.77,Concert
+22-05-2023,Rent,460.32,Monthly rent
+23-05-2023,Utilities,152.12,Electricity bill
+24-05-2023,Entertainment,388.97,Concert
+25-05-2023,Miscellaneous,354.1,Other
+26-05-2023,Entertainment,154.44,Sports event
+27-05-2023,Rent,71.56,Monthly rent
+28-05-2023,Rent,389.62,Monthly rent
+29-05-2023,Utilities,337.55,Phone bill
+30-05-2023,Entertainment,426.53,Concert
+31-05-2023,Utilities,389.49,Phone bill
+01-06-2023,Miscellaneous,316.66,Shopping
+02-06-2023,Miscellaneous,368.83,Donation
+03-06-2023,Entertainment,316.42,Concert
+04-06-2023,Miscellaneous,380.58,Other
+05-06-2023,Entertainment,307.04,Concert
+06-06-2023,Transportation,349.08,Bus fare
+07-06-2023,Transportation,297.65,Taxi
+08-06-2023,Rent,292.04,Monthly rent
+09-06-2023,Rent,7.03,Monthly rent
+10-06-2023,Utilities,334.45,Internet bill
+11-06-2023,Transportation,187.61,Bus fare
+12-06-2023,Transportation,381.89,Bus fare
+13-06-2023,Rent,416.1,Monthly rent
+14-06-2023,Miscellaneous,365.75,Shopping
+15-06-2023,Utilities,140.28,Electricity bill
+16-06-2023,Rent,427.27,Monthly rent
+17-06-2023,Transportation,463.26,Bus fare
+18-06-2023,Rent,458.15,Monthly rent
+19-06-2023,Transportation,89.34,Train ticket
+20-06-2023,Entertainment,119.84,Concert
+21-06-2023,Miscellaneous,217.52,Shopping
+22-06-2023,Miscellaneous,225.02,Other
+23-06-2023,Utilities,227.15,Water bill
+24-06-2023,Miscellaneous,309.33,Other
+25-06-2023,Miscellaneous,98.43,Other
+26-06-2023,Miscellaneous,11,Gift
+27-06-2023,Entertainment,44.65,Subscription
+28-06-2023,Utilities,210.17,Internet bill
+29-06-2023,Utilities,393.29,Water bill
+30-06-2023,Utilities,170.1,Internet bill
+01-07-2023,Miscellaneous,484.64,Other
+02-07-2023,Miscellaneous,183.64,Donation
+03-07-2023,Entertainment,97.08,Subscription
+04-07-2023,Transportation,394.13,Gas
+05-07-2023,Rent,230.75,Monthly rent
+06-07-2023,Utilities,216.35,Phone bill
+07-07-2023,Rent,444.31,Monthly rent
+08-07-2023,Entertainment,160.55,Movies
+09-07-2023,Miscellaneous,338.47,Shopping
+10-07-2023,Rent,348.67,Monthly rent
+11-07-2023,Miscellaneous,35.19,Donation
+12-07-2023,Entertainment,52.39,Subscription
+13-07-2023,Entertainment,153.18,Movies
+14-07-2023,Rent,140.75,Monthly rent
+15-07-2023,Rent,406.72,Monthly rent
+16-07-2023,Miscellaneous,443.52,Gift
+17-07-2023,Food,188.13,Restaurant
+18-07-2023,Entertainment,132.55,Subscription
+19-07-2023,Entertainment,478.9,Movies
+20-07-2023,Miscellaneous,315.99,Donation
+21-07-2023,Rent,488.11,Monthly rent
+22-07-2023,Transportation,398.92,Taxi
+23-07-2023,Entertainment,246.88,Sports event
+24-07-2023,Miscellaneous,146.81,Gift
+25-07-2023,Food,6.01,Café
+26-07-2023,Transportation,400.92,Gas
+27-07-2023,Utilities,276.93,Electricity bill
+28-07-2023,Miscellaneous,401.49,Gift
+29-07-2023,Transportation,439.25,Train ticket
+30-07-2023,Miscellaneous,50.1,Other
+31-07-2023,Transportation,34.17,Taxi
+01-08-2023,Utilities,159.1,Electricity bill
+02-08-2023,Entertainment,75.11,Movies
+03-08-2023,Miscellaneous,41.69,Donation
+04-08-2023,Rent,294.77,Monthly rent
+05-08-2023,Entertainment,214.13,Movies
+06-08-2023,Entertainment,205.09,Sports event
+07-08-2023,Rent,114.68,Monthly rent
+08-08-2023,Transportation,485.97,Bus fare
+09-08-2023,Rent,117.44,Monthly rent
+10-08-2023,Rent,182.51,Monthly rent
+11-08-2023,Miscellaneous,16.85,Shopping
+12-08-2023,Transportation,74.51,Train ticket
+13-08-2023,Entertainment,85.66,Sports event
+14-08-2023,Entertainment,196.23,Subscription
+15-08-2023,Food,281.12,Restaurant
+16-08-2023,Rent,195.94,Monthly rent
+17-08-2023,Miscellaneous,477.02,Donation
+18-08-2023,Transportation,23.98,Bus fare
+19-08-2023,Transportation,86.21,Train ticket
+20-08-2023,Utilities,245.1,Electricity bill
+21-08-2023,Utilities,134.18,Electricity bill
+22-08-2023,Entertainment,287.72,Subscription
+23-08-2023,Miscellaneous,456.38,Other
+24-08-2023,Entertainment,233.67,Movies
+25-08-2023,Utilities,69.69,Internet bill
+26-08-2023,Food,105.68,Groceries
+27-08-2023,Food,443.69,Fast food
+28-08-2023,Entertainment,443.97,Concert
+29-08-2023,Entertainment,68.32,Movies
+30-08-2023,Utilities,369.34,Internet bill
+31-08-2023,Entertainment,176.3,Movies
+01-09-2023,Miscellaneous,366.15,Gift
+02-09-2023,Utilities,126.7,Phone bill
+03-09-2023,Miscellaneous,35.79,Gift
+04-09-2023,Entertainment,85.15,Concert
+05-09-2023,Food,461.44,Fast food
+06-09-2023,Rent,220.63,Monthly rent
+07-09-2023,Miscellaneous,479.02,Gift
+08-09-2023,Rent,266.35,Monthly rent
+09-09-2023,Rent,45.77,Monthly rent
+10-09-2023,Utilities,249.26,Electricity bill
+11-09-2023,Utilities,353.42,Water bill
+12-09-2023,Miscellaneous,73.79,Gift
+13-09-2023,Food,408.32,Groceries
+14-09-2023,Rent,20.21,Monthly rent
+15-09-2023,Entertainment,377,Movies
+16-09-2023,Miscellaneous,145.85,Other
+17-09-2023,Food,269.75,Groceries
+18-09-2023,Transportation,30.46,Train ticket
+19-09-2023,Rent,438.92,Monthly rent
+20-09-2023,Rent,101.9,Monthly rent
+21-09-2023,Food,49.34,Café
+22-09-2023,Entertainment,499.71,Subscription
+23-09-2023,Food,299.61,Restaurant
+24-09-2023,Food,170.17,Fast food
+25-09-2023,Transportation,251.07,Train ticket
+26-09-2023,Utilities,375.48,Phone bill
+27-09-2023,Rent,224.7,Monthly rent
+28-09-2023,Rent,287.86,Monthly rent
+29-09-2023,Transportation,188.08,Gas
+30-09-2023,Transportation,407.06,Train ticket
+01-10-2023,Utilities,130.19,Internet bill
+02-10-2023,Entertainment,372.91,Movies
+03-10-2023,Rent,389.33,Monthly rent
+04-10-2023,Food,323.91,Café
+05-10-2023,Miscellaneous,88.15,Gift
+06-10-2023,Utilities,453.19,Water bill
+07-10-2023,Utilities,246.97,Electricity bill
+08-10-2023,Miscellaneous,230.65,Donation
+09-10-2023,Food,260.54,Café
+10-10-2023,Utilities,326.5,Phone bill
+11-10-2023,Miscellaneous,237.2,Shopping
+12-10-2023,Transportation,285.87,Train ticket
+13-10-2023,Food,222.73,Fast food
+14-10-2023,Rent,397.85,Monthly rent
+15-10-2023,Food,469.1,Café
+16-10-2023,Entertainment,117.9,Subscription
+17-10-2023,Transportation,51.05,Train ticket
+18-10-2023,Transportation,375.66,Taxi
+19-10-2023,Utilities,360.85,Water bill
+20-10-2023,Transportation,51.43,Gas
+21-10-2023,Utilities,492.46,Water bill
+22-10-2023,Rent,208.76,Monthly rent
+23-10-2023,Food,29.47,Groceries
+24-10-2023,Utilities,272.27,Water bill
+25-10-2023,Entertainment,291.32,Subscription
+26-10-2023,Entertainment,329.64,Movies
+27-10-2023,Utilities,192.64,Internet bill
+28-10-2023,Miscellaneous,279.39,Shopping
+29-10-2023,Rent,449.98,Monthly rent
+30-10-2023,Entertainment,305.71,Sports event
+31-10-2023,Miscellaneous,82.45,Donation
+01-11-2023,Entertainment,41.34,Sports event
+02-11-2023,Miscellaneous,53.07,Other
+03-11-2023,Transportation,151.71,Taxi
+04-11-2023,Miscellaneous,194.08,Gift
+05-11-2023,Transportation,449.26,Gas
+06-11-2023,Rent,56.42,Monthly rent
+07-11-2023,Utilities,316.94,Water bill
+08-11-2023,Transportation,94.98,Train ticket
+09-11-2023,Entertainment,156.75,Concert
+10-11-2023,Transportation,474.24,Bus fare
+11-11-2023,Utilities,93.13,Electricity bill
+12-11-2023,Entertainment,287.31,Movies
+13-11-2023,Entertainment,443.92,Concert
+14-11-2023,Miscellaneous,381.09,Other
+15-11-2023,Miscellaneous,6.34,Donation
+16-11-2023,Entertainment,19.03,Sports event
+17-11-2023,Entertainment,459.11,Concert
+18-11-2023,Miscellaneous,131.74,Gift
+19-11-2023,Rent,153.87,Monthly rent
+20-11-2023,Transportation,159.07,Train ticket
+21-11-2023,Entertainment,325.41,Movies
+22-11-2023,Entertainment,320.9,Concert
+23-11-2023,Entertainment,31.76,Movies
+24-11-2023,Transportation,211.17,Train ticket
+25-11-2023,Rent,208.9,Monthly rent
+26-11-2023,Entertainment,185.25,Subscription
+27-11-2023,Rent,158.55,Monthly rent
+28-11-2023,Entertainment,33.07,Sports event
+29-11-2023,Utilities,394.56,Internet bill
+30-11-2023,Transportation,15.55,Gas
+01-12-2023,Entertainment,289.54,Subscription
+02-12-2023,Utilities,67.59,Electricity bill
+03-12-2023,Miscellaneous,380.08,Other
+04-12-2023,Transportation,71.75,Train ticket
+05-12-2023,Utilities,105.21,Electricity bill
+06-12-2023,Entertainment,22.4,Concert
+07-12-2023,Entertainment,390.96,Sports event
+08-12-2023,Entertainment,498.27,Concert
+09-12-2023,Transportation,80.15,Train ticket
+10-12-2023,Rent,141.75,Monthly rent
+11-12-2023,Food,404.93,Restaurant
+12-12-2023,Food,444.41,Fast food
+13-12-2023,Entertainment,338.24,Sports event
+14-12-2023,Transportation,267.95,Train ticket
+15-12-2023,Miscellaneous,208.94,Shopping
+16-12-2023,Rent,480.57,Monthly rent
+17-12-2023,Entertainment,300.34,Movies
+18-12-2023,Rent,294.44,Monthly rent
+19-12-2023,Food,401.23,Fast food
+20-12-2023,Entertainment,386.68,Concert
+21-12-2023,Transportation,31.21,Bus fare
+22-12-2023,Transportation,110.25,Bus fare
+23-12-2023,Entertainment,12.8,Sports event
+24-12-2023,Transportation,164.65,Taxi
+25-12-2023,Entertainment,384.55,Sports event
+26-12-2023,Food,385.45,Groceries
+27-12-2023,Rent,383.03,Monthly rent
+28-12-2023,Transportation,142.35,Train ticket
+29-12-2023,Utilities,168.5,Phone bill
+30-12-2023,Food,259.39,Restaurant
+31-12-2023,Transportation,481.24,Train ticket
+01-01-2024,Miscellaneous,224.89,Donation
+02-01-2024,Food,461.36,Café
+03-01-2024,Miscellaneous,52.79,Donation
+04-01-2024,Food,122.3,Fast food
+05-01-2024,Food,258.25,Restaurant
+06-01-2024,Entertainment,463.29,Subscription
+07-01-2024,Transportation,281.99,Train ticket
+08-01-2024,Rent,88.54,Monthly rent
+09-01-2024,Rent,480.92,Monthly rent
+10-01-2024,Rent,163.86,Monthly rent
+11-01-2024,Food,163.05,Café
+12-01-2024,Entertainment,108.12,Sports event
+13-01-2024,Transportation,263.2,Gas
+14-01-2024,Miscellaneous,116.55,Gift
+15-01-2024,Food,452.18,Restaurant
+16-01-2024,Utilities,328.02,Water bill
+17-01-2024,Entertainment,414.01,Concert
+18-01-2024,Rent,498.29,Monthly rent
+19-01-2024,Transportation,198.39,Taxi
+20-01-2024,Rent,231.31,Monthly rent
+21-01-2024,Utilities,89,Water bill
+22-01-2024,Transportation,380.02,Gas
+23-01-2024,Miscellaneous,188.7,Other
+24-01-2024,Rent,134.71,Monthly rent
+25-01-2024,Rent,149.05,Monthly rent
+26-01-2024,Food,178.75,Café
+27-01-2024,Utilities,341.06,Internet bill
+28-01-2024,Miscellaneous,234.58,Shopping
+29-01-2024,Food,297.61,Groceries
+30-01-2024,Transportation,188.74,Train ticket
+31-01-2024,Rent,314.74,Monthly rent
+01-02-2024,Rent,436.46,Monthly rent
+02-02-2024,Utilities,274.61,Electricity bill
+03-02-2024,Utilities,91.67,Phone bill
+04-02-2024,Miscellaneous,392.75,Donation
+05-02-2024,Rent,93.86,Monthly rent
+06-02-2024,Transportation,243.33,Gas
+07-02-2024,Entertainment,97.59,Sports event
+08-02-2024,Food,404.33,Restaurant
+09-02-2024,Food,13.61,Café
+10-02-2024,Food,173.32,Groceries
+11-02-2024,Food,255.17,Café
+12-02-2024,Food,408.7,Groceries
+13-02-2024,Utilities,491.87,Water bill
+14-02-2024,Transportation,495.63,Bus fare
+15-02-2024,Food,486.34,Fast food
+16-02-2024,Rent,431.57,Monthly rent
+17-02-2024,Transportation,487.81,Train ticket
+18-02-2024,Entertainment,278.35,Sports event
+19-02-2024,Entertainment,142.97,Sports event
+20-02-2024,Utilities,469.21,Water bill
+21-02-2024,Entertainment,332.88,Movies
+22-02-2024,Miscellaneous,245.42,Other
+23-02-2024,Food,404.09,Groceries
+24-02-2024,Rent,299.81,Monthly rent
+25-02-2024,Entertainment,126.26,Movies
+26-02-2024,Miscellaneous,421.94,Other
+27-02-2024,Food,195.67,Fast food
+28-02-2024,Food,415.85,Fast food
+29-02-2024,Food,8.69,Groceries
+01-03-2024,Food,308.52,Groceries
+02-03-2024,Food,330.79,Groceries
+03-03-2024,Transportation,232.26,Bus fare
+04-03-2024,Transportation,244.04,Bus fare
+05-03-2024,Entertainment,92.25,Subscription
+06-03-2024,Rent,299.15,Monthly rent
+07-03-2024,Rent,455.56,Monthly rent
+08-03-2024,Miscellaneous,66.76,Shopping
+09-03-2024,Rent,321.9,Monthly rent
+10-03-2024,Transportation,485.51,Gas
+11-03-2024,Miscellaneous,416.9,Other
+12-03-2024,Food,250.93,Groceries
+13-03-2024,Transportation,331.92,Taxi
+14-03-2024,Miscellaneous,220.88,Other
+15-03-2024,Miscellaneous,317.6,Other
+16-03-2024,Miscellaneous,223.17,Shopping
+17-03-2024,Transportation,479.68,Gas
+18-03-2024,Transportation,163.42,Taxi
+19-03-2024,Utilities,107.56,Internet bill
+20-03-2024,Food,71.47,Fast food
+21-03-2024,Miscellaneous,238.85,Donation
+22-03-2024,Entertainment,483.87,Subscription
+23-03-2024,Food,378.76,Café
+24-03-2024,Rent,261.34,Monthly rent
+25-03-2024,Utilities,173.97,Internet bill
+26-03-2024,Entertainment,403.11,Sports event
+27-03-2024,Rent,496.43,Monthly rent
+28-03-2024,Transportation,396.9,Gas
+29-03-2024,Entertainment,375.13,Subscription
+30-03-2024,Food,134.28,Café
+31-03-2024,Transportation,84.26,Bus fare
+01-04-2024,Utilities,308.23,Water bill
+02-04-2024,Entertainment,374.61,Sports event
+03-04-2024,Utilities,144.47,Electricity bill
+04-04-2024,Entertainment,257.46,Concert
+05-04-2024,Miscellaneous,96.08,Shopping
+06-04-2024,Food,376.98,Café
+07-04-2024,Utilities,359.05,Electricity bill
+08-04-2024,Transportation,91.52,Bus fare
+09-04-2024,Entertainment,56.02,Subscription
+10-04-2024,Rent,450.91,Monthly rent
+11-04-2024,Food,353.71,Restaurant
+12-04-2024,Miscellaneous,245.28,Donation
+13-04-2024,Miscellaneous,188.51,Donation
+14-04-2024,Rent,447.94,Monthly rent
+15-04-2024,Rent,24.36,Monthly rent
+16-04-2024,Food,225.33,Groceries
+17-04-2024,Food,172.95,Groceries
+18-04-2024,Miscellaneous,432.65,Donation
+19-04-2024,Utilities,71.27,Phone bill
+20-04-2024,Food,479.07,Café
+21-04-2024,Miscellaneous,422.88,Donation
+22-04-2024,Rent,223.59,Monthly rent
+23-04-2024,Utilities,366.54,Phone bill
+24-04-2024,Food,325.9,Restaurant
+25-04-2024,Transportation,493.88,Taxi
+26-04-2024,Transportation,47.25,Gas
+27-04-2024,Transportation,254.39,Train ticket
+28-04-2024,Utilities,408.77,Electricity bill
+29-04-2024,Transportation,351.94,Bus fare
+30-04-2024,Rent,271.13,Monthly rent
+01-05-2024,Food,276.26,Restaurant
+02-05-2024,Entertainment,75.71,Concert
+03-05-2024,Utilities,425.1,Internet bill
+04-05-2024,Transportation,426.06,Gas
+05-05-2024,Transportation,440.56,Gas
+06-05-2024,Transportation,197.63,Bus fare
+07-05-2024,Rent,291.1,Monthly rent
+08-05-2024,Utilities,215.49,Electricity bill
+09-05-2024,Entertainment,340.65,Concert
+10-05-2024,Miscellaneous,236.78,Donation
+11-05-2024,Miscellaneous,290.56,Gift
+12-05-2024,Food,265.35,Café
+13-05-2024,Food,387.04,Café
+14-05-2024,Entertainment,6.45,Sports event
+15-05-2024,Rent,218.63,Monthly rent
+16-05-2024,Rent,6.29,Monthly rent
+17-05-2024,Rent,33.46,Monthly rent
+18-05-2024,Rent,477.24,Monthly rent
+19-05-2024,Food,407.35,Fast food
+20-05-2024,Utilities,6.66,Water bill
+21-05-2024,Miscellaneous,479.59,Shopping
+22-05-2024,Miscellaneous,73.29,Gift
+23-05-2024,Entertainment,177.01,Subscription
+24-05-2024,Entertainment,332.62,Subscription
+25-05-2024,Food,94.16,Fast food
+26-05-2024,Rent,473.37,Monthly rent
+27-05-2024,Rent,491.24,Monthly rent
+28-05-2024,Entertainment,164.9,Movies
+29-05-2024,Utilities,467.21,Internet bill
+30-05-2024,Rent,236.43,Monthly rent
+31-05-2024,Food,485.35,Fast food
+01-06-2024,Utilities,55.04,Internet bill
+02-06-2024,Utilities,50.48,Electricity bill
+03-06-2024,Entertainment,233.92,Concert
+04-06-2024,Miscellaneous,355.29,Shopping
+05-06-2024,Food,181.77,Restaurant
+06-06-2024,Miscellaneous,47.07,Other
+07-06-2024,Rent,73.43,Monthly rent
+08-06-2024,Food,459.79,Café
+09-06-2024,Transportation,176.34,Taxi
+10-06-2024,Transportation,297.69,Gas
+11-06-2024,Entertainment,375.76,Concert
+12-06-2024,Rent,367.97,Monthly rent
+13-06-2024,Entertainment,15.1,Subscription
+14-06-2024,Utilities,319.74,Internet bill
+15-06-2024,Utilities,105.79,Electricity bill
+16-06-2024,Transportation,407.71,Train ticket
+17-06-2024,Transportation,96.65,Taxi
+18-06-2024,Utilities,257.81,Internet bill
+19-06-2024,Miscellaneous,100.62,Other
+20-06-2024,Entertainment,319.1,Movies
+21-06-2024,Rent,376.36,Monthly rent
+22-06-2024,Utilities,214.39,Phone bill
+23-06-2024,Transportation,227.57,Taxi
+24-06-2024,Miscellaneous,438.51,Gift
+25-06-2024,Utilities,137.28,Electricity bill
+26-06-2024,Food,202.95,Fast food
+27-06-2024,Food,140.55,Groceries
+28-06-2024,Transportation,354.92,Bus fare
+29-06-2024,Utilities,441.63,Phone bill
+30-06-2024,Transportation,310.2,Taxi
